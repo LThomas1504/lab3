@@ -2,7 +2,7 @@
 
 /* Font stack: Primary, Fallback, and Family */
 body {
-  font-family: "Roboto", "Helvetica Neue", sans-serif; /* Update with your desired font */
+  font-family: "Roboto", "Helvetica Neue", sans-serif; /* Robust font stack */
 }
 
 /* Basic form structure for mobile */
