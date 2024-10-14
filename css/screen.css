@@ -1,8 +1,9 @@
 /* ===== FORM STYLES ===== */
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap');
 
 /* Font stack: Primary, Fallback, and Family */
 body {
-  font-family: "Roboto", "Helvetica Neue", sans-serif; /* Robust font stack */
+  font-family: "Teko", "Helvetica Neue", sans-serif; /* Robust font stack */
 }
 
 /* Basic form structure for mobile */
